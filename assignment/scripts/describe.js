@@ -59,12 +59,13 @@ if (name === 'Mary') {
 
 // 2.
 // DESCRIPTION:
-// 
-// 
-// 
+//  declare open variable secret and declare code 123
+//  condtional if code is exact match to 123 secret will be 'super'
+//  code will be will be multiplied by 2
+// another conditional if code is greater then 250 secret will be 'duper'
 //
 // OUTCOME:
-//
+// 'super' will be logged
 
 // CODE:
 /*
@@ -89,7 +90,7 @@ console.log(secret)
 
 // 3.
 // DESCRIPTION
-// 
+// three variables are declared isStudent
 // 
 // 
 //
