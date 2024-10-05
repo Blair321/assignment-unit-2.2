@@ -179,6 +179,7 @@ if (mix === true) {
 
 // CODE:
 /*
+// change || to && in the code because it should be a statement that both are needed to be true. 
 let temp = 40;
 const time = 4;
 
