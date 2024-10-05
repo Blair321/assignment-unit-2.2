@@ -90,11 +90,12 @@ console.log(secret)
 
 // 3.
 // DESCRIPTION
-// three variables are declared isStudent
-// 
-// 
+// three variables are declared isStudent is true, age is 34, and zip is 55407
+// conditional if else statment made of if isStudent is true and if zip is greater then 80000 ' You're a student on the West !' will be console.loog
+// else if isStudent is false or age is less than 30 'What are your hobbies" will be cosoled.log
+// the third else if isstudent is true then console.log 'Welcome to prime' or if false cnsole.log 'How about the weather'
 //
-// OUTCOME:
+// OUTCOME: 'Welcome to prime' will be console.log
 //
 
 // CODE:
