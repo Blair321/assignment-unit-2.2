@@ -156,6 +156,8 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 // CODE:
+// Fix variable colorOne and colortwo. Set colorOne to blue, it is set to red and not blue like in description.
+// DO the same of swapping colorTwo to red where it is written in code as blue.
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
