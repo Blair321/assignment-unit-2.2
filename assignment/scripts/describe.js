@@ -33,15 +33,15 @@ if (number >= 2) {
 
 // 1.
 // DESCRIPTION
-// 
-// 
-//
-//
+// Created variable called 'Dane'
+// Create if else conditional
+// if name is correct match to 'Mary' console.log ('Hi, Mary!')
+// else if it is incorrect it will console.log ('How do you do?')
 //
 //
 //
 // OUTCOME:
-//
+// 'How do you do' will be logged
 
 // CODE:
 /*
