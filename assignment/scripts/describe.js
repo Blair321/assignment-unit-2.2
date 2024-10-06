@@ -201,7 +201,7 @@ if (temp > 39 || time >= 4) {
 // CODE:
 /*
 // change less than or equal to symbol to greater then or equal to symbol =<.
-// Also change the console.log 'no entry' 
+// Also change the console.log 'no entry' to below the else statment. 
 let age = 21;
 const minAge = 21;
 
