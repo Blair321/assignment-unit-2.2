@@ -158,6 +158,7 @@ if (number >= 2) {
 // CODE:
 // Fix variable colorOne and colortwo. Set colorOne to blue, it is set to red and not blue like in description.
 // DO the same of swapping colorTwo to red where it is written in code as blue.
+// add colorTwo to colorOne (colorOne + colorTwo)
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -199,6 +200,8 @@ if (temp > 39 || time >= 4) {
 
 // CODE:
 /*
+// change less than or equal to symbol to greater then or equal to symbol =<.
+// Also change the console.log 'no entry' 
 let age = 21;
 const minAge = 21;
 
